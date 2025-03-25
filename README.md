@@ -6,8 +6,6 @@ Toggles packet tampering with a customizable hotkey (active only when Roblox is 
 - Python 3.x installed.
 - Administrative privileges (mandatory for packet manipulation).
 
-## Installation
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/Cattlivor/roblox-tamper.git
-   cd roblox-tamper
+## Credits
+[Bindable-LagSwitch](https://github.com/Hermivore8151/Bindable-LagSwitch) Provided the foundational structure for this tool.
+[Clumsy](https://github.com/jagt/clumsy) The tamper module was adapted from this repository.
