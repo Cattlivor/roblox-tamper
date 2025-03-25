@@ -7,5 +7,5 @@ Toggles packet tampering with a customizable hotkey (active only when Roblox is 
 - Administrative privileges (mandatory for packet manipulation).
 
 ## Credits
-[Bindable-LagSwitch](https://github.com/Hermivore8151/Bindable-LagSwitch) Provided the foundational structure for this tool.
-[Clumsy](https://github.com/jagt/clumsy) The tamper module was adapted from this repository.
+- [Bindable-LagSwitch](https://github.com/Hermivore8151/Bindable-LagSwitch) Provided the foundational structure for this tool.
+- [Clumsy](https://github.com/jagt/clumsy) The tamper module was adapted from this repository.
